@@ -5,12 +5,12 @@
  * Date: 2020/5/3
  * Time: 10:50 上午
  */
-namespace cloudmall\InternalApi;
+namespace cloudMall\internalApi;
 
 /**
  * 该类中定义了一个公共的产品线内部API调用
  * Class InternalApi
- * @package CloudMall\InternalApi
+ * @package cloudMall\internalApi
  */
 class InternalApi
 {
