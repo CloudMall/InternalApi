@@ -1,0 +1,29 @@
+{
+    "name": "CloudMall/yii2-cloudmall-helper",
+    "description": "CloudMall Internalapi Extension for Yii2",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension",
+        "CloudMall",
+        "InternalApi",
+        "RESTFUL"
+    ],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "RyanZou",
+            "email": "RyanZoou@gamil.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-curl": "*",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CloudMall\\InternalApi\\": ""
+        }
+    }
+}
