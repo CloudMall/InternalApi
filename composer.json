@@ -1,5 +1,5 @@
 {
-    "name": "CloudMall/yii2-cloudmall-helper",
+    "name": "cloudmall/yii2-cloudmall-helper",
     "description": "CloudMall Internalapi Extension for Yii2",
     "type": "yii2-extension",
     "keywords": [
